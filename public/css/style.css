@@ -1,0 +1,10 @@
+body {
+    background-color: #fdfdff;
+    background-image: linear-gradient(
+        130deg,
+        #f8f9fa 15%,
+        #f0f3f5 40%,
+        #eceff1 60%,
+        #e6eaf0 100%
+    ) !important;
+}
